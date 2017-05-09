@@ -1,0 +1,9 @@
+[submodule "content/desosa2015"]
+	path = content/desosa2015
+	url = https://github.com/delftswa/delftswa.github.io
+[submodule "content/desosa2016"]
+	path = content/desosa2016
+	url = https://github.com/delftswa2016/desosa2016.git
+[submodule "content/desosa2017"]
+	path = content/desosa2017
+	url = https://github.com/delftswa2017/desosa2017
